@@ -10,7 +10,7 @@ function Footer() {
         <div className="flex items-center lg:py-2">
           Bulid with{' '}
           <span className="text-primary dark:text-primaryDark text-2xl px-1">
-            &#9825;
+            {/* &#9825; */}
           </span>{' '}
           <Link href="/" className="underline underline-offset-2">
             Ashutosh Sonel
