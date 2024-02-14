@@ -56,7 +56,7 @@ function about() {
                 Biography
               </h2>
               <p className="font-medium">
-                Hi, I'm Ashutosh, Passionate final-year Information Technology
+                Hi, I'm Ashutosh, Passionate final year Information Technology
                 undergraduate student with practical expertise in JavaScript,
                 React.js, Next.js, Node.js, C++, and Python. Eager to embrace
                 new challenges within the tech domain and explore diverse
@@ -64,7 +64,7 @@ function about() {
               </p>
               <p className="py-4 font-medium">
                 I believe that design is about more than just making things look
-                pretty – it's about solving problems and creating intuitive,
+                pretty it's about solving problems and creating intuitive,
                 enjoyable experiences for users.
               </p>
             </div>
