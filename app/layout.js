@@ -20,6 +20,9 @@ export const metadata = {
   keywords: ['Ashutosh Sonel', 'Full-Stack Developer', 'Web Developer', 'React', 'Next.js', 'Node.js', 'IIT Jodhpur', 'Software Engineer'],
   authors: [{ name: 'Ashutosh Sonel' }],
   creator: 'Ashutosh Sonel',
+  verification: {
+    google: 'NosJ4uchaJsRC11izYWY7qRXxzNCtPEwFZjEcAjWch0',
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
