@@ -71,13 +71,13 @@ export function Navbar() {
 
   return (
     <nav
-      className={cn(
-        "fixed top-0 left-0 right-0 z-50 transition-all duration-300",
-        isScrolled
-          ? "glass-effect shadow-lg py-4"
-          : "bg-transparent py-6"
-      )}
-    >
+  className={cn(
+    "fixed top-0 left-0 right-0 z-50 transition-all duration-300",
+    isScrolled
+      ? "glass-effect shadow-lg py-4 bg-white dark:bg-black"
+      : "py-6 bg-white dark:bg-black"
+  )}
+>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
         <div className="flex items-center justify-between">
           <a
